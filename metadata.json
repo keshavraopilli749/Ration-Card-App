@@ -1,0 +1,6 @@
+{
+  "name": "Smart Ration",
+  "description": "Smart Ration Card Management System is a professional digital ration distribution platform with queue-free slot booking, QR token verification, stock monitoring, and complaint tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
